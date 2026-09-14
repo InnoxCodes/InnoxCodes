@@ -21,16 +21,6 @@ I'm pursuing a B.Tech in Computer Science Engineering (AI) at Manipal Institute 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**TriageAI**](https://github.com/InnoxCodes/Ticket-Triage-System) | Classifies support tickets by category and urgency, routes them to a live Kanban queue, and flags low-confidence calls for a human | FastAPI, scikit-learn, React |
-| [**RightSplit**](https://github.com/InnoxCodes/RightSplit) | Item-level expense sharing with exact per-item shares and optimized settlement suggestions | FastAPI, React, Docker |
-| [**ProcureIQ**](https://github.com/InnoxCodes/ProcureIQ) | Procurement process optimization: analytics, ML risk scoring, a rules engine and a decision dashboard | Python, ML, Docker |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 ## Tech Stack
 
 **Languages**
