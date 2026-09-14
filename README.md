@@ -18,7 +18,6 @@ I'm pursuing a B.Tech in Computer Science Engineering (AI) at Manipal Institute 
 - Built a volatility regime detection system (SVM, LSTM, 1D CNN) hitting ~90% recall on high-risk market events, lifting a backtested Sharpe ratio from 0.79 to 0.86
 - Building TriageAI, a support-ticket triage app that classifies tickets at 94.6% accuracy and shows its confidence instead of hiding it
 - Experimenting with agentic AI workflows using Claude, OpenAI and n8n
-- Digging into open-source codebases like Scrapy, INGInious and koharu
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -91,7 +90,7 @@ I'm pursuing a B.Tech in Computer Science Engineering (AI) at Manipal Institute 
 ## Find Me
 
 <p>
-<a href="https://www.linkedin.com/in/dakshtyagi/">
+<a href="https://www.linkedin.com/in/daksh-tyagi-56412425b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" height="20"/>
 </a>
 <a href="mailto:dakshtyagi2005@gmail.com">
