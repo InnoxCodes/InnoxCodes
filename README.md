@@ -5,7 +5,7 @@
 
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=4000&pause=100000&color=FFD700&left=true&vCenter=true&width=150&height=36&lines=Featured" alt="Featured" /> ➜ <a href="https://github.com/InnoxCodes/Ticket-Triage-System"><img src="https://img.shields.io/badge/TriageAI-000000?style=for-the-badge&logo=github&logoColor=white" height="20"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=4000&pause=100000&color=FFD700&left=true&vCenter=true&width=150&height=36&lines=Portfolio" alt="Portfolio" /> ➜ <a href="https://daksh-portfolio-seven-lake.vercel.app"><img src="https://img.shields.io/badge/Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" height="20"/></a>
 </p>
 
 I like building things that think, and then making sure they don't fall over in production :')
@@ -80,6 +80,9 @@ I'm pursuing a B.Tech in Computer Science Engineering (AI) at Manipal Institute 
 ## Find Me
 
 <p>
+<a href="https://daksh-portfolio-seven-lake.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="20"/>
+</a>
 <a href="https://www.linkedin.com/in/daksh-tyagi-56412425b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" height="20"/>
 </a>
