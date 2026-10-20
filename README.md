@@ -1,23 +1,35 @@
-<h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3100&pause=1800&color=00D9FF&left=true&vCenter=true&width=620&lines=Hi%2C+I'm+Daksh" alt="Hi, I'm Daksh" />
-</h1>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=19&duration=3000&pause=1000&color=555555&left=true&vCenter=true&width=650&lines=Software+Engineer+%7C+AI+Specialist;RAG+pipelines+%2B+LLM-powered+backends;I+Turn+Prompts+Into+Production." alt="Software Engineer | AI Specialist. RAG pipelines + LLM-powered backends. I turn prompts into production." />
+<!-- header: python scripts/make_header.py -->
 
+<div align="center">
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=4000&pause=100000&color=FFD700&left=true&vCenter=true&width=150&height=36&lines=Portfolio" alt="Portfolio" /> ➜ <a href="https://daksh-portfolio-seven-lake.vercel.app"><img src="https://img.shields.io/badge/Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" height="20"/></a>
-</p>
+<a href="https://daksh-portfolio-seven-lake.vercel.app"><img src="./assets/header.svg" width="100%" alt="Hi, I'm Daksh. Software Engineer and AI Specialist building RAG pipelines and LLM-powered backends. I turn prompts into production." /></a>
 
-I like building things that think, and then making sure they don't fall over in production :')
+<a href="https://daksh-portfolio-seven-lake.vercel.app"><img src="https://img.shields.io/badge/Portfolio-visit_%E2%86%92-FFD700?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" height="24" alt="Visit my portfolio" /></a>
 
-I'm pursuing a B.Tech in Computer Science Engineering (AI) at Manipal Institute of Technology, with experience as an AI Engineer at AI Intelligence Systems Lab and as a Software Engineering Virtual Intern at Accenture. My interests are aligned with Generative AI, RAG pipelines, LLM orchestration, agentic AI workflows and scalable backend systems.
+</div>
 
-### What I'm up to
+<!-- heatmap + stats are rebuilt daily by .github/workflows/profile-art.yml
+     portrait: python scripts/make_portrait.py <photo> (see the script header) -->
 
-- Shipped FastAPI backend services with RAG pipelines and external model APIs (LLMs, ElevenLabs) as an AI Engineer
-- Built a volatility regime detection system (SVM, LSTM, 1D CNN) hitting ~90% recall on high-risk market events, lifting a backtested Sharpe ratio from 0.79 to 0.86
-- Building TriageAI, a support-ticket triage app that classifies tickets at 94.6% accuracy and shows its confidence instead of hiding it
-- Experimenting with agentic AI workflows using Claude, OpenAI and n8n
+<div align="center">
+
+<h3><code>daksh@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./assets/contrib-heatmap.svg" width="100%" alt="Daksh's GitHub contribution graph, refreshed daily" />
+
+<br>
+<br>
+
+<h3><code>daksh@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./assets/portrait.svg" width="385" alt="Daksh Tyagi, ASCII portrait" /></td>
+<td valign="top"><img src="./assets/stats.svg" width="385" alt="Daksh's contribution streaks and stats, refreshed daily" /></td>
+</tr>
+</table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
